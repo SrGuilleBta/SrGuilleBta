@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**SrGuilleBta/SrGuilleBta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Computer Science student at Facultad de Ciencias Fisico Matematicas UANL.
+## 🖥️ Skills
+- **Programming:** C, C++, C#, Python
+- **Web Development:** HTML, CSS, JavaScript
+- **Databases:** SQL Server
+- **Frameworks:** .NET
+## 🚀 Goals for 2025
+- Develop personal projects to create a solid portfolio.
+- Obtain certifications in AWS and mobile application development.
 
-Here are some ideas to get you started:
+## 🎯 Future Plans
+I plan to complete my studies by the end of **2027**, continuously improving my skills and gaining experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Feel free to connect with me!
+
