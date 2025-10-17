@@ -6,10 +6,7 @@
 ## 🖥️ Skills  
 
 ### 🚀 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🌐 Web Development
@@ -20,8 +17,10 @@
 ### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### ⚙️ Frameworks
+### ⚙️ Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Java Swing](https://img.shields.io/badge/Java%20Swing-5382A1?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
@@ -35,12 +34,11 @@
 
 ## 📚 Currently Learning
 - ASP.NET ⚙️  
+- React ⚛️  
 
 ---
 
 ## 🎯 Interests
 - ⚙️ Backend Development  
 - 🤖 Artificial Intelligence  
-
----
-
+- 🖼️ GUI & Frontend Development  
